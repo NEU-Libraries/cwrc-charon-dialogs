@@ -1,10 +1,10 @@
 {
-  "name": "cwrc-git-dialogs",
+  "name": "cwrc-charon-dialogs",
   "version": "0.0.1-development",
   "description": "Dialogs for listing, loading, and saving CWRC XML documents.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cwrc/cwrc-git-dialogs.git"
+    "url": "https://github.com/NEU-Libraries/cwrc-charon-dialogs.git"
   },
   "keywords": [
     "cwrc",
@@ -62,7 +62,6 @@
   },
   "dependencies": {
     "bootstrap": "3.3.7",
-    "cwrc-git-server-client": "1.3.1",
     "github": "9.2.0",
     "jquery": "3.2.1",
     "js-cookie": "2.1.4"
